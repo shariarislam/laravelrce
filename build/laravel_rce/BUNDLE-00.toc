@@ -1,3 +1,0 @@
-([('laravel_rce',
-   '/Users/mac/github/LaravelRCE/dist/laravel_rce',
-   'EXECUTABLE')],)
