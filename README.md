@@ -2,4 +2,4 @@
 
 # Build:
 
-python -m eel laravel_rce.py web --noconsole --onefilels
+python -m eel laravel_rce.py web --noconsole --onefile
